@@ -9,5 +9,3 @@
 </a>
 
 :smile: Enjoy my GitHub Profile!
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofekyem&layout=compact)
