@@ -8,4 +8,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" width="90"/>
 </a>
 
-:smile: Enjoy my GitHub Profile!
+:smile: Enjoy my GitHub Profile! 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofekyem&layout=compact)
