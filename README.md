@@ -15,7 +15,7 @@
   A small program to crawl websites and generate a report of their internal linking structure. Developed using JavaScript and Node.js. GitHub Repository
 
 📚 **Course Exercises:**
-- You can also find the exercises I've completed as part of my university courses.
+- You can also find here all the exercises I've completed as part of my university courses.
 
 
 📊 **My GitHub Stats:** 
