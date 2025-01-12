@@ -1,5 +1,5 @@
 ### Hi there, I'm Ofek! 👋
-:open_book: I’m a 3rd-year Computer Science student at Bar-Ilan University.
+:open_book: I’m a Computer Science student at Bar-Ilan University.
 
 :mailbox_with_mail: You can reach me via email: ofekyemini87@gmail.com
 
