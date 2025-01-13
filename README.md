@@ -9,7 +9,7 @@
 🛠️ **My Projects:**
 
 - **[Facebook Clone:](https://github.com/ofekyem/Facebook-Project)**
-  A Full-Stack Facebook clone with a website (HTML, CSS, React) and Android app (Java, XML). Features include user account creation, post sharing, and friend management.
+  A Full-Stack Facebook clone with a website (HTML, CSS, JavaScript, React) and Android app (Java, XML). Features include user account creation, post sharing, and friend management.
 
 - **[Website Crawler: ](https://github.com/ofekyem/Website-Crawler)**
   A small program to crawl websites and generate a report of their internal linking structure. Developed using JavaScript and Node.js. GitHub Repository
