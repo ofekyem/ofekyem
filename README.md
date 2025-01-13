@@ -2,7 +2,7 @@
 :open_book: I’m a Computer Science student at Bar-Ilan University.
 
 📬 **Contact Me:**
-- Email: [ofekyemini87@gmail.com](mailto:ofekyemini87@gmail.com)
+- [ofekyemini87@gmail.com](mailto:ofekyemini87@gmail.com)
 
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofek-yemini-91792b254/)
 
