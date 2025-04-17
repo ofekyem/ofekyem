@@ -20,6 +20,6 @@
 
 📊 **My GitHub Stats:** 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofekyem&layout=compact&theme=discord_old_blurple) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofekyem&layout=compact&theme=discord_old_blurple)
 
 :smile: Enjoy my GitHub Profile! 
