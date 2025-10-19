@@ -4,7 +4,7 @@
 📬 **Contact Me:**
 - [ofekyemini87@gmail.com](mailto:ofekyemini87@gmail.com)
 
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofek-yemini/)
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/ofek-yemini/)
 
 🛠️ **My Projects:**
 
@@ -24,3 +24,4 @@
 ![](https://komarev.com/ghpvc/?username=ofekyem&style=pixel)
 
 :smile: Enjoy my GitHub Profile! 
+
