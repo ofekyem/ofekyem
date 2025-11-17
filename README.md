@@ -11,6 +11,8 @@
 - **[Facebook Clone:](https://github.com/ofekyem/Facebook-Project)**
   A Full-Stack Facebook clone with a website (HTML, CSS, JavaScript, React) and Android app (Java, XML). Features include user account creation, post sharing, and friend management.
 
+- **[Arkanoid Game:](https://github.com/ofekyem/Arkanoid)** An Object-Oriented implementation of the classic Arkanoid (Breakout) arcade game, fully built in Java.
+
 - **[Task Manager: ](https://github.com/ofekyem/Task-Manager)**
   Web application that allows registered users to view and manage their personal tasks through an interactive carousel interface.
 
