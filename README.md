@@ -14,6 +14,9 @@
 - **[Task Manager: ](https://github.com/ofekyem/Task-Manager)**
   Web application that allows registered users to view and manage their personal tasks through an interactive carousel interface.
 
+- **[Website Crawler: ](https://github.com/ofekyem/Website-Crawler)**
+  A program that crawls websites and generate a report of their internal linking structure. Developed using JavaScript and Node.js.
+
 📚 **Course Exercises:**
 - You can also find here all the exercises I've completed as part of my university courses.
 
