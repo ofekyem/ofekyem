@@ -22,3 +22,9 @@
 📚 **Course Exercises:**
 - You can also find here all the exercises I've completed as part of my university courses.
 
+📊 **My GitHub Stats:** 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofekyem&layout=compact&theme=discord_old_blurple) 
+
+
+
