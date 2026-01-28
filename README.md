@@ -1,10 +1,9 @@
 # Hi there, I'm Ofek! 👋
 :open_book: I'm a Computer Science graduate from Bar-Ilan University.
 
-📬 **Contact Me:**
-- [ofekyemini87@gmail.com](mailto:ofekyemini87@gmail.com)
-
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/ofek-yemini/)
+📬 **Contact Me:**  
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ofekyemini87@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofek-yemini/)
 
 🛠️ **My Projects:**
 
