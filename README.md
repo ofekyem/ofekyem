@@ -8,7 +8,7 @@
 🛠️ **My Projects:**
 
 - **[Tune-A-Year:  ](https://github.com/ofekyem/tune-a-year)**
-  A Full-Stack musical timeline game inspired by the board game "Hitster." Developed using C# and .NET 10 for the backend alongside a TypeScript-based React frontend. It utilizes SignalR for real-time synchronization, Object-Oriented design, and integrates with music platform APIs for live audio playback.
+  A Full-Stack musical timeline game inspired by the board game "Hitster". Developed using C# and .NET 10 for the backend alongside a TypeScript-based React frontend. It utilizes SignalR for real-time synchronization, Object-Oriented design, and integrates with music platform APIs for live audio playback.
 
 - **[Facebook Clone:](https://github.com/ofekyem/Facebook-Project)**
   A Full-Stack Facebook clone with a website (HTML, CSS, JavaScript, React) and Android app (Java, XML). Features include user account creation, post sharing, and friend management.
