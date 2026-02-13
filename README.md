@@ -26,7 +26,7 @@
 
 📊 **My GitHub Stats:** 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofekyem&layout=compact&theme=discord_old_blurple) 
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ofekyem&layout=donut&theme=discord_old_blurple)](https://github.com/Pranesh-2005/github-readme-stats)
 
 
 
